@@ -2,6 +2,8 @@
 
 This project implements and trains a YOLOv10 model to detect car license plates from images. YOLO (You Only Look Once) is a state-of-the-art object detection model known for its real-time processing capabilities. This project uses the YOLOv10n variant, which is lightweight and optimized for faster inference, to accurately detect license plates from vehicle images.
 
+![Screenshot 2024-09-08 235547](https://github.com/user-attachments/assets/d6f09257-5552-4554-a3d1-6c83a33ba2d7)
+
 ## Project Structure:
 - **Dataset**: A custom dataset containing annotated images of car license plates.
 - **Model**: YOLOv10n, chosen for its balance between speed and accuracy.
